@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimeLine</string>
+    <string name="appbar_scolling_view_behavior" />
+    <string name="title_activity_event_detail">EventDetailActivity</string>
+</resources>
